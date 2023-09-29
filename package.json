@@ -1,0 +1,26 @@
+{
+  "name": "bit1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "getPlanetName": "nodemon run getPlanetName.js",
+    "beginner": "nodemon run beginner.js",
+    "sumOfPositive": "nodemon run sumOfPositive.js",
+    "arrayMadness": "nodemon run arrayMadness.js",
+    "polish": "nodemon run polish.js",
+    "allStar": "nodemon run allStar.js",
+    "isEven": "nodemon run isEven.js",
+    "oldYoung": "nodemon run oldYoung.js",
+    "drinks": "nodemon run drinks.js",
+    "triple": "nodemon run triple.js",
+    "various": "nodemon run various.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kasparas",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
